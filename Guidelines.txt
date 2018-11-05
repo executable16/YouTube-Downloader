@@ -1,0 +1,8 @@
+Curious about how it works!
+It's simple :
+1. You need pytube as prerequisite.
+     . To install pytube use: "pip install pytube"
+2. Run the Code
+3. Enter Video URL(Only YouTube links will work)
+4. Enter Destination(eg. C:\Users\HP\Downloads\Music)
+5. Done !!
